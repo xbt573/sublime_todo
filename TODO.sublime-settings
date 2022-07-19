@@ -1,0 +1,14 @@
+{
+    "targets": [
+        {
+            "selector": "FIXME",
+            "color": "yellow",
+            "to_end": true
+        },
+        {
+            "selector": "TODO",
+            "color": "red",
+            "to_end": true
+        }
+    ]
+}
