@@ -1,0 +1,16 @@
+[{
+    "id": "preferences",
+    "children": [{
+        "caption": "Package Settings",
+        "mnemonic": "P",
+        "id": "package-settings",
+        "children": [{
+            "caption": "TODO Highlighter",
+            "children": [{
+                "command": "edit_settings",
+                "args": { "base_file": "${packages}/TODO/TODO.sublime-settings" },
+                "caption": "Settings"
+            }]
+        }]
+    }]
+}]
